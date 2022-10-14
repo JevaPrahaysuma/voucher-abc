@@ -44,8 +44,8 @@ npm start
 4. List API
 
  - v.1.0.0
-    - [check-eligible](/app/documentations/check-eligible.md), check eligible customer for transaction voucher
-    - [validate-photo](/app/documentations/validate-photo.md), check validation photo for get voucher code
+    - [check-eligible](/documentations/check-eligible.md), check eligible customer for transaction voucher
+    - [validate-photo](/documentations/validate-photo.md), check validation photo for get voucher code
 
 # Link Collection API
 ```
