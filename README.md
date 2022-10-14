@@ -11,12 +11,12 @@
 - **Database** : Mysql
 - **Container** : Docker
 - **Library** :
-    cors : "^2.8.5",
-    dotenv : "^8.1.0",
-    express : "^4.18.2",
-    moment : "^2.29.4",
-    mysql : "^2.18.1",
-    sequelize: "^6.24.0"
+    - cors : 2.8.5,
+    - dotenv : 8.1.0,
+    - express : 4.18.2,
+    - moment : 2.29.4,
+    - mysql : 2.18.1,
+    - sequelize: 6.24.0
 
 3. Running Application
 
