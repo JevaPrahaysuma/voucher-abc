@@ -1,0 +1,39 @@
+{
+  "name": "voucher-abc",
+  "version": "1.0.0",
+  "description": "Application for voucher abc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JevaPrahaysuma/voucher-abc.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "jeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JevaPrahaysuma/voucher-abc/issues"
+  },
+  "homepage": "https://github.com/JevaPrahaysuma/voucher-abc#readme",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^1.19.2",
+    "sequelize": "^6.24.0"
+  }
+}

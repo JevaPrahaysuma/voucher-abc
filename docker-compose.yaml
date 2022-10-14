@@ -1,0 +1,11 @@
+version: "3"
+services:
+  mysqldb:
+    container_name: DB_MYSQL
+    image: mysql:5.7
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: voucher
+    ports:
+      - "3307:3306"
